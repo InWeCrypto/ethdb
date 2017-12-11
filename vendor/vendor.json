@@ -1,0 +1,56 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "8G3MdcWpgaVSwl1Yh/n6yJo3w5o=",
+			"origin": "github.com/dynamicgo/config/vendor/github.com/Jeffail/gabs",
+			"path": "github.com/Jeffail/gabs",
+			"revision": "aa9e325b771ca815461890c5e5b9be4e42da1633",
+			"revisionTime": "2017-11-26T15:05:34Z"
+		},
+		{
+			"checksumSHA1": "FbcM2THHHwG+T4WbruyMPUdB1X8=",
+			"path": "github.com/dynamicgo/config",
+			"revision": "aa9e325b771ca815461890c5e5b9be4e42da1633",
+			"revisionTime": "2017-11-26T15:05:34Z"
+		},
+		{
+			"checksumSHA1": "XmnYB5Ngjy4J0W+GpnpeKfYSGjs=",
+			"path": "github.com/dynamicgo/slf4go",
+			"revision": "baff4259548c37384c203a03ee15ea2bdae006d4",
+			"revisionTime": "2017-11-14T09:20:35Z"
+		},
+		{
+			"checksumSHA1": "YkpuNhq75eI7X98jjtYh5gfsnts=",
+			"path": "github.com/go-xorm/builder",
+			"revision": "a4a881a4e552fcb5473f39e8b9f7d9f3457a7fb0",
+			"revisionTime": "2017-10-30T02:14:29Z"
+		},
+		{
+			"checksumSHA1": "zEViql2RV5UZi4mYpV+30Lh8CK8=",
+			"path": "github.com/go-xorm/core",
+			"revision": "589eefd4f452f2bdb7cb2df841a548d5f6e2d48a",
+			"revisionTime": "2017-12-06T13:58:25Z"
+		},
+		{
+			"checksumSHA1": "0RiAbhNbzC5uuZzQ/D14J8+WIqQ=",
+			"path": "github.com/go-xorm/xorm",
+			"revision": "26d40bc248ca034cdec1f61bce92ebeab240186f",
+			"revisionTime": "2017-12-11T05:49:42Z"
+		},
+		{
+			"checksumSHA1": "3HVfwgLpCDH8JX211UWdrSi/GU4=",
+			"path": "github.com/lib/pq",
+			"revision": "b609790bd85edf8e9ab7e0f8912750a786177bcf",
+			"revisionTime": "2017-10-22T19:20:43Z"
+		},
+		{
+			"checksumSHA1": "ATnwV0POluBNQEMjPdylodz0oK0=",
+			"path": "github.com/lib/pq/oid",
+			"revision": "b609790bd85edf8e9ab7e0f8912750a786177bcf",
+			"revisionTime": "2017-10-22T19:20:43Z"
+		}
+	],
+	"rootPath": "github.com/inwecrypto/ethdb"
+}
