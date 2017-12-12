@@ -38,7 +38,7 @@ func main() {
 		return
 	}
 
-	if err := engine.Sync2(new(ethdb.TableTx)); err != nil {
+	if err := engine.Sync2(new(ethdb.TableTx), new(ethdb.TableOrder), new(ethdb.TableWallet)); err != nil {
 		logger.ErrorF("sync table schema error , %s", err)
 		return
 	}
